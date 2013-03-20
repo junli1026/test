@@ -1,4 +1,8 @@
 fdasf
 hello
 hello wrold fdasf
+<<<<<<< HEAD
 This is user2 's modification
+=======
+This is user 1 's modification
+>>>>>>> 17830f90eb0d441fd8f4acdb5572e9b4a6b6cf8b
